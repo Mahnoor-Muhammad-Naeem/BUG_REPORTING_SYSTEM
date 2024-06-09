@@ -1,1 +1,12 @@
 
+.gitignore
+README.md
+favicon.ico
+index.html
+logo192.png
+logo512.png
+manifest.json
+package-lock.json
+package.json
+react-frontend
+robots.txt
